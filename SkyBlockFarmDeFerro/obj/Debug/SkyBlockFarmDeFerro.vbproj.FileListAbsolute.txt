@@ -1,0 +1,12 @@
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\bin\Debug\SkyBlockFarmDeFerro.exe.config
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\bin\Debug\SkyBlockFarmDeFerro.exe
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\bin\Debug\SkyBlockFarmDeFerro.pdb
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\bin\Debug\SkyBlockFarmDeFerro.xml
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.vbprojAssemblyReference.cache
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.Form1.resources
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.Resources.resources
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.vbproj.GenerateResource.cache
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.vbproj.CoreCompileInputs.cache
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.exe
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.xml
+C:\Users\zzleo\source\repos\SkyBlockFarmDeFerro\obj\Debug\SkyBlockFarmDeFerro.pdb
